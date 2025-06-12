@@ -21,3 +21,5 @@ Thank you for placing your trust in me — I promise this is going to be a rewar
 Let’s rock this journey together — see you in the live session! 💪🔥
 
 🚀 DSA Target FAANG Syllabus ➡️ https://docs.google.com/document/d/10vHAtOOFlGRUhL9C9OutrxLYqEgX8R_4ZlhNsRX3Aoc/edit?usp=sharing
+
+🚀 For Recording ➡️ https://docs.google.com/document/d/1C5JkoYk8kUS5HmNI7hM-HmC7vZARGiqgQAsoFAMpuSA/edit?usp=sharing
