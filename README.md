@@ -3,16 +3,26 @@ Welcome aboard a transformative journey to crack FAANG-level interviews with con
 Experience the joy of structured learning, real interview problems, and expert  guidance.
 Thank you for placing your trust in me — I promise this is going to be a rewarding and empowering experience.
 
-🎯 Training Highlights
+🎯 Training Highlights  
+
 ✅ Solve 200+ hand-picked LeetCode problems (Easy → Medium → Hard)
+
 ➡️ Curated from real FAANG interviews
+
 ➡️ Focus on problem-solving patterns & deep mastery
+
 ✅ Programming in Java 
+
 ✅ Live sessions on Google Meet + Recording access
+
 ✅ 3-Month Duration
+
 ✅ Fee: ₹15,000 INR
+
 ✅ 15-day no-questions-asked refund policy
+
 ✅ Instructor: Srinu Nampalli
+
 🔗 YouTube: Algo2Design | LinkedIn: Srinu Nampalli
 
 📌 Attached: Full training syllabus for your reference
